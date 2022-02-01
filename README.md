@@ -10,5 +10,5 @@ Java projekts, kur realize kaulina mešanu
 -[x] izvietoot lokālu projektu GitHub
 -[x] papildinātais  GitHub krātuves saturs iegūts lokālai lietošanai
 -[] Projektam pieslēdzies velviens cilvēks un izmēģināta kopdarbošanās (forking)
--[] Projektā izveidots jauns zars (branch)
+-[x] Projektā izveidots jauns zars (branch)
 -[] Saplūdināti zari un novērsts merge konflikts
