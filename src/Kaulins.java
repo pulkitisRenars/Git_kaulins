@@ -14,9 +14,11 @@ System.out.println("Uzkrita : "+uzmestkaulins);
 }
 	public static void main(String[] args) {
 		Scanner dati = new Scanner(System.in);
+		int x;
+		do{
 		System.out.println("Cik reizes uzmest kaulinu?");
-		int x = dati.nextInt();
-		int uzmestkaulins;
+		x = dati.nextInt();
+		}while(x<1);
 	
 mest(x);
 	}
